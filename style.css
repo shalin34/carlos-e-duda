@@ -7,7 +7,7 @@
 }
 
 body{
-    background-image: url("universo.jpg");
+    background-color: var(--cor-fundo);
     background-repeat: no-repeat;
     background-size: cover;
     color: var(--cor-texto);
