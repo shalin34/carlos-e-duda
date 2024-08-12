@@ -4,6 +4,7 @@ const caixaAlternativas = document.querySelector(".caixa-alternativas");
 const caixaResultado = document.querySelector(".resultado-1");
 const textoResultado = document.querySelector(".textoResultado");
 const botao1 = document.querySelector(".caixa-alternativas .botao_1");
+const botao2 = document.querySelector(".caixa-alternativas .botao_2");
 
 console.log(botao1);
 
