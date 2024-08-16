@@ -1,13 +1,13 @@
 :root{
-    --cor-fundo: #01080E;
+    --cor-fundo: #6a589a;
     --cor-principal: #0B0D20 ;
-    --cor-secundaria: #212333;
-    --cor-destaque: #2BDEFD;
+    --cor-secundaria: #45355a;
+    --cor-destaque: #ffb3d5;
     --cor-texto: #D7F9FF;
 }
 
 body{
-    background-color: var(--cor-fundo);
+    background-image: url("png-transparent-football-field-football-field-green-background-football-thumbnail.png");
     background-repeat: no-repeat;
     background-size: cover;
     color: var(--cor-texto);
